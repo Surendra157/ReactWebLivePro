@@ -3,7 +3,7 @@ const Footer =()=>{
     return(
         <>
             <footer className="bg-light text-center">
-            <p>  2020 SSPTechnical, All rights reserved | Terms and conditions </p>
+            <p>  2022 SSPTechnical, All rights reserved | Terms and conditions </p>
             </footer>
         </>
     )
