@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WebSiteLiv/static/css/main.f62070a5.css",
+    "main.js": "/WebSiteLiv/static/js/main.e5f42e5a.js",
+    "static/media/app.png": "/WebSiteLiv/static/media/app.227365169ee57a917806.png",
+    "static/media/digital.png": "/WebSiteLiv/static/media/digital.3b08c421f8c31dddf432.png",
+    "static/media/marketing_1.png": "/WebSiteLiv/static/media/marketing_1.851cd0b89e5571bed0ba.png",
+    "static/media/software.png": "/WebSiteLiv/static/media/software.3dfd6a9626bc9448d4b3.png",
+    "index.html": "/WebSiteLiv/index.html",
+    "main.f62070a5.css.map": "/WebSiteLiv/static/css/main.f62070a5.css.map",
+    "main.e5f42e5a.js.map": "/WebSiteLiv/static/js/main.e5f42e5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f62070a5.css",
+    "static/js/main.e5f42e5a.js"
+  ]
+}
