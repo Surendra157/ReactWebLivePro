@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/WebSiteLiv/static/css/main.f62070a5.css",
-    "main.js": "/WebSiteLiv/static/js/main.ce160fcc.js",
-    "static/media/app.png": "/WebSiteLiv/static/media/app.227365169ee57a917806.png",
-    "static/media/digital.png": "/WebSiteLiv/static/media/digital.3b08c421f8c31dddf432.png",
-    "static/media/marketing_1.png": "/WebSiteLiv/static/media/marketing_1.851cd0b89e5571bed0ba.png",
-    "static/media/software.png": "/WebSiteLiv/static/media/software.3dfd6a9626bc9448d4b3.png",
-    "index.html": "/WebSiteLiv/index.html",
-    "main.f62070a5.css.map": "/WebSiteLiv/static/css/main.f62070a5.css.map",
-    "main.ce160fcc.js.map": "/WebSiteLiv/static/js/main.ce160fcc.js.map"
+    "main.css": "/ReactWebLivePro/static/css/main.f62070a5.css",
+    "main.js": "/ReactWebLivePro/static/js/main.6dc6121c.js",
+    "static/media/app.png": "/ReactWebLivePro/static/media/app.227365169ee57a917806.png",
+    "static/media/digital.png": "/ReactWebLivePro/static/media/digital.3b08c421f8c31dddf432.png",
+    "static/media/marketing_1.png": "/ReactWebLivePro/static/media/marketing_1.851cd0b89e5571bed0ba.png",
+    "static/media/software.png": "/ReactWebLivePro/static/media/software.3dfd6a9626bc9448d4b3.png",
+    "index.html": "/ReactWebLivePro/index.html",
+    "main.f62070a5.css.map": "/ReactWebLivePro/static/css/main.f62070a5.css.map",
+    "main.6dc6121c.js.map": "/ReactWebLivePro/static/js/main.6dc6121c.js.map"
   },
   "entrypoints": [
     "static/css/main.f62070a5.css",
-    "static/js/main.ce160fcc.js"
+    "static/js/main.6dc6121c.js"
   ]
 }
